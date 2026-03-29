@@ -1,9 +1,9 @@
 ---
-title: "Czyste Powietrze i pompa ciepła — ile dofinansowania i jak to wpływa na budżet?"
+title: "Czyste Powietrze i pompa ciepła — ile dofinansowania i jak to wpływa na budżet domowy?"
 date: 2026-03-20
 categories: [dofinansowania, budżet domowy]
-tags: [Czyste Powietrze, dotacja, pompa ciepła, NFOŚiGW]
-excerpt: "Program Czyste Powietrze to nawet 66 000 zł dofinansowania. Sprawdzamy, jak wygląda realny budżet inwestycji z dotacją."
+tags: [Czyste Powietrze, dotacja, pompa ciepła, NFOŚiGW, oszczędności, OZE]
+excerpt: "Program Czyste Powietrze to nawet 66 000 zł dofinansowania na pompę ciepła. Sprawdzamy realny budżet inwestycji i jak wybrać rzetelną firmę, by nie stracić dotacji."
 ---
 
 Program [Czyste Powietrze](https://czystepowietrze.gov.pl/) to bez wątpienia największy program wsparcia dla właścicieli domów jednorodzinnych w Polsce — i jeden z największych tego typu w Europie.
@@ -36,3 +36,15 @@ To realne liczby, które pokazują dlaczego ta inwestycja się opłaca nawet bez
 Wnioski składa się przez portal WFOŚiGW lub online. Krok po kroku cały proces wyjaśnia portal **[czystepowietrze-dotacje.pl](https://czystepowietrze-dotacje.pl/)** — łącznie z listą wymaganych dokumentów i często popełnianymi błędami.
 
 Oficjalne informacje o programie: [Ministerstwo Klimatu i Środowiska](https://www.gov.pl/web/klimat) oraz [NFOŚiGW](https://www.nfosigw.gov.pl/).
+
+## Uwaga: jak nie stracić dotacji przez nierzetelną firmę?
+
+Niestety, duże pieniądze przyciągają też nieuczciwych pośredników. W 2026 roku skala wyłudzeń w programie Czyste Powietrze okazała się szokująca — CBA zatrzymało prezesa spółki, która wyłudziła ponad 6,9 mln zł dotacji. Sprawa trafiła do Prokuratury Europejskiej.
+
+**Zanim podpiszesz umowę z jakimkolwiek instalatorem**, przeczytaj szczegółowy poradnik: **[Jak wybrać rzetelną firmę do montażu pompy ciepła i nie stracić dotacji z Czystego Powietrza](https://czystepowietrze-dotacje.pl/posts/czyste-powietrze-pompa-ciepla-jak-wybrac-firme-2026/)** — znajdziesz tam checklistę weryfikacji wykonawcy, wzór bezpiecznej umowy i opis schematu oszustwa stosowanego przez nierzetelne firmy.
+
+Kluczowe zasady w skrócie:
+- ✅ Sprawdź firmę w [KRS](https://rejestry.gov.pl) i na liście MKiŚ
+- ✅ Nie podpisuj szerokich pełnomocnictw (dostęp do Twoich środków!)
+- ✅ Płać etapami — po odbiorze każdego etapu prac
+- ✅ Unikaj ofert „100% dotacji bez wkładu własnego" — to zawsze czerwona flaga
