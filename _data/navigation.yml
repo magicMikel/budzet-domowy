@@ -1,0 +1,9 @@
+main:
+  - title: "Strona główna"
+    url: /
+  - title: "Kategorie"
+    url: /categories/
+  - title: "Tagi"
+    url: /tags/
+  - title: "O nas"
+    url: /o-nas/

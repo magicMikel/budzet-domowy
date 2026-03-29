@@ -1,8 +1,8 @@
 title: "Budżet Domowy"
 name: "Budżet Domowy"
 description: "Praktyczne porady o zarządzaniu budżetem domowym, oszczędzaniu i finansach rodzinnych."
-url: "https://effectiveone.github.io"
-baseurl: "/budzet-domowy"
+url: "https://solarfinance.pl"
+baseurl: ""
 lang: pl
 
 remote_theme: mmistakes/minimal-mistakes@4.24.0
