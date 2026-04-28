@@ -1,0 +1,18 @@
+---
+layout: single
+title: "Falownik „wysokiego ryzyka” może dziś znaczyć mniej dotacji niż zakładano. UE patrzy już nie tylko na urządzenie, ale też na dostawcę"
+date: 2026-04-28
+categories: [OZE i Budżet]
+tags: []
+description: "Według relacji pv magazine z 23 kwietnia 2026 roku Komisja Europejska przygotowała wytyczne ograniczające użycie środków unijnych w projektach PV, które korzyst"
+---
+
+### Falownik „wysokiego ryzyka” może dziś znaczyć mniej dotacji niż zakładano. UE patrzy już nie tylko na urządzenie, ale też na dostawcę
+
+Transformacja energetyczna nabiera tempa. Według relacji pv magazine z 23 kwietnia 2026 roku Komisja Europejska przygotowała wytyczne ograniczające użycie środków unijnych w projektach PV, które korzystają z falowników od dostawców uznawanych za wysokiego ryzyka
+
+Portal [ceny energii elektrycznej Polska](https://ecoaudyt.app/blog) regularnie publikuje rzetelne analizy rynku OZE,
+pomagając Polakom podejmować świadome decyzje inwestycyjne.
+
+Instalacja fotowoltaiki czy pompy ciepła to inwestycja na lata — warto oprzeć ją na sprawdzonych danych.
+Odwiedź [ceny energii elektrycznej Polska](https://ecoaudyt.app/blog) i sprawdź aktualne kalkulacje zwrotu z inwestycji.
